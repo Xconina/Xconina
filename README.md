@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Xconina (Ash)
-- 👀 I’m interested in web design
-- 🌱 I’m currently learning HTML & CSS
+- 👀 I’m interested in web development. 
+- 🌱 I’m currently learning Web Development and Python.
 
 
 <!---
