@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Xconina (Ash)
-- 👀 I’m interested in web development. 
-- 🌱 I’m currently learning Web Development and Python.
+- 👀 I’m interested in software development, Python, AI, and data analytics. 
+- 🌱 I’m currently learning taking CS50x and Google Data Analytics Certification.
 
 
 <!---
